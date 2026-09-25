@@ -1,0 +1,20 @@
+// Gruvbox Light (medium) — https://github.com/morhetz/gruvbox (bg1 · bg0_s · bg0; headings green like markdownH1)
+{
+  "name": "Gruvbox Light",
+  "appearance": "light",
+  "interface": {
+    "window": "#ebdbb2",
+    "sidebar": "#f2e5bc",
+    "noteList": "#f2e5bc",
+    "paper": "#fbf1c7"
+  },
+  "text": {
+    "text": "#3c3836",
+    "heading": "#79740e",
+    "link": "#076678",
+    "tag": "#af3a03",
+    "quote": "#7c6f64",
+    "muted": "#928374",
+    "code": "#ebdbb2"
+  }
+}

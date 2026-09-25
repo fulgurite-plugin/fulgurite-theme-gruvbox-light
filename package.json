@@ -1,0 +1,13 @@
+{
+  "name": "fulgurite.theme.gruvbox-light",
+  "displayName": "Gruvbox Light",
+  "version": "0.1.0",
+  "description": "Gruvbox's warm retro light palette, from the window to the text",
+  "repository": "https://github.com/fulgurite-plugin/fulgurite-theme-gruvbox-light",
+  "license": "MIT",
+  "theme": true,
+  "private": true,
+  "scripts": {
+    "postversion": "git push --follow-tags"
+  }
+}
