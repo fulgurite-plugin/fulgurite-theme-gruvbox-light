@@ -16,5 +16,15 @@
     "quote": "#7c6f64",
     "muted": "#928374",
     "code": "#ebdbb2"
+  },
+  // The small parts on the panes: bg2 · bg3 · fg2 · green · orange · blue · gray
+  "controls": {
+    "fill": "#d5c4a1",
+    "fillHover": "#bdae93",
+    "label": "#504945",
+    "insert": "#79740e",
+    "visual": "#af3a03",
+    "command": "#076678",
+    "normal": "#928374"
   }
 }
